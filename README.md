@@ -22,6 +22,14 @@ Chakra UI, Tamagui, Tailwind CSS
 
 Firebase, Supabase, NextAuth.js, Clerk
 
+### Database
+
+PostgreSQL, Supabase
+
+### Object Storage
+
+AWS S3, Supabase
+
 ### State Management
 
 Jotai, NgRx
